@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in BME, Peking University, 2027 (expected)
+* B.S. in BME, Collage of Engneering Peking University, 2018-2022
 
 Work experience
 ======
@@ -27,14 +26,13 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Research Assistant
+  * Peking University
+  * Duties included: intern
   
 Skills
 ======
-* Skill 1
+* Python,Matlab,R
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
