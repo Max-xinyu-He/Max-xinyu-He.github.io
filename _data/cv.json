@@ -39,7 +39,7 @@
       "startDate": "2022",
       "endDate": "2027",
       "gpa": null,
-      "courses": [Machine Learning| Fundamentals of Bioinformatics]
+      "courses": "Machine Learning| Fundamentals of Bioinformatics"
     },
     {
       "institution": "Peking University",
@@ -48,11 +48,11 @@
       "startDate": "",
       "endDate": "2018",
       "gpa": null,
-      "courses": [Mathematical Analysis I | Mathematical Analysis II | Engineering Mathematics | Biomedical Image Processing]
+      "courses": "Mathematical Analysis I | Mathematical Analysis II | Engineering Mathematics | Biomedical Image Processing"
     }
   ],
-  "skills": [Python、Matlab、R],
-  "languages": [English],
+  "skills": "Python、Matlab、R",
+  "languages": "English",
   "interests": [],
   "references": [],
   "publications": [
