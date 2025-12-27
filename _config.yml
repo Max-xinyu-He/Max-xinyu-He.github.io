@@ -1,3 +1,7 @@
+
+
+
+
 # Welcome to Max-Xinyu-He!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -85,11 +89,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Book'
   manuscripts:
-    title: 'Self-assembled patient-derived tumor-like cell clusters for personalized drug testing in diverse sarcomas'    
+    title: 'Manuscript'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Conference Paper'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
