@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Max He / Site Title"
+title                    : "Max He / HomePage"
 title_separator          : "-"
 name                     : &name "Max Xinyu He"
 description              : &description "Max Xinyu He's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Maxme"
-  pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "China"
+  name             : "Max He"
+  pronouns         : #"she/her"  
+  bio              : "Live Long and Prosper"
+  location         : "China Beijing"
   employer         : "Peking University"
   uri              : # URL
-  email            : "diarmait[dot][99]@pku.edu.cn" 
+  email            : "diarmait.99@pku.edu.cn" 
 
   # Academic websites
   academia         : # URL
